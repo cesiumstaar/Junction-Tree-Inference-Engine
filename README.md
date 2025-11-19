@@ -1,6 +1,6 @@
 # Junction-Tree-Inference-Engine
 Exact inference engine implementing triangulation, maximal clique extraction, junction-tree construction, and sum-product/max-product algorithms for marginals, partition function, and top-k MAP assignments. Done as an assignment for CS726: Advanced Machine Leaning in Spring 2025 at IITB.
-## 🔧 Function Overview (Brief)
+##  Function Overview (Brief)
 Below is a short summary of what each major function in `template.py` does.
 
 ### **Triangulation & Cliques**
